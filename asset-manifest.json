@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ansharai-veronica.github.io/tictactoe/static/css/main.948d6395.chunk.css",
-    "main.js": "/ansharai-veronica.github.io/tictactoe/static/js/main.30078ebb.chunk.js",
-    "main.js.map": "/ansharai-veronica.github.io/tictactoe/static/js/main.30078ebb.chunk.js.map",
-    "runtime-main.js": "/ansharai-veronica.github.io/tictactoe/static/js/runtime-main.5e0c2b9c.js",
-    "runtime-main.js.map": "/ansharai-veronica.github.io/tictactoe/static/js/runtime-main.5e0c2b9c.js.map",
-    "static/js/2.812a6396.chunk.js": "/ansharai-veronica.github.io/tictactoe/static/js/2.812a6396.chunk.js",
-    "static/js/2.812a6396.chunk.js.map": "/ansharai-veronica.github.io/tictactoe/static/js/2.812a6396.chunk.js.map",
-    "index.html": "/ansharai-veronica.github.io/tictactoe/index.html",
-    "precache-manifest.d8229caee7c31dcd337792868c95c0c3.js": "/ansharai-veronica.github.io/tictactoe/precache-manifest.d8229caee7c31dcd337792868c95c0c3.js",
-    "service-worker.js": "/ansharai-veronica.github.io/tictactoe/service-worker.js",
-    "static/css/main.948d6395.chunk.css.map": "/ansharai-veronica.github.io/tictactoe/static/css/main.948d6395.chunk.css.map",
-    "static/js/2.812a6396.chunk.js.LICENSE.txt": "/ansharai-veronica.github.io/tictactoe/static/js/2.812a6396.chunk.js.LICENSE.txt"
+    "main.css": "/tictactoe/static/css/main.948d6395.chunk.css",
+    "main.js": "/tictactoe/static/js/main.31969dc8.chunk.js",
+    "main.js.map": "/tictactoe/static/js/main.31969dc8.chunk.js.map",
+    "runtime-main.js": "/tictactoe/static/js/runtime-main.666fab5a.js",
+    "runtime-main.js.map": "/tictactoe/static/js/runtime-main.666fab5a.js.map",
+    "static/js/2.812a6396.chunk.js": "/tictactoe/static/js/2.812a6396.chunk.js",
+    "static/js/2.812a6396.chunk.js.map": "/tictactoe/static/js/2.812a6396.chunk.js.map",
+    "index.html": "/tictactoe/index.html",
+    "precache-manifest.ab5fd035c51688a7cfeb3f4364f6656e.js": "/tictactoe/precache-manifest.ab5fd035c51688a7cfeb3f4364f6656e.js",
+    "service-worker.js": "/tictactoe/service-worker.js",
+    "static/css/main.948d6395.chunk.css.map": "/tictactoe/static/css/main.948d6395.chunk.css.map",
+    "static/js/2.812a6396.chunk.js.LICENSE.txt": "/tictactoe/static/js/2.812a6396.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e0c2b9c.js",
+    "static/js/runtime-main.666fab5a.js",
     "static/js/2.812a6396.chunk.js",
     "static/css/main.948d6395.chunk.css",
-    "static/js/main.30078ebb.chunk.js"
+    "static/js/main.31969dc8.chunk.js"
   ]
 }
